@@ -1,1 +1,1 @@
-<?php print "Hello World";
+<?php print "Helo World";
